@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/principal.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="shortcut icon" href="assets/logo-2019_2_.ico" type="image/x-icon">
+    <title>Educa Center</title>
+</head>
+<body id="teste1">
+    <div id="menuMobile">
+        <button onclick="redirectPrincipal()"><i class="material-icons">home</i> <h1>Principal</h1></button>
+        <button onclick="redirectCursos()"><i class="material-icons">pageview</i><h1>Cursos</h1></button>
+        <button onclick="redirectSobre()"><i class="material-icons">search</i><h1>Sobre</h1></button>
+        <button onclick="redirectContato()"><i class="material-icons">call</i> <h1>Contato</h1></button>
+    </div>
+    <div id="content">
+            <div align="center" class="logo">
+            <img onclick="easterEgg()" class="imgLogo" src="assets/logo 2019.jpg"/>
+        </div>
+        <header class="cabecalho">
+            <div class="menu">
+                <button onclick="loop()" id="btnPrincipal">Principal</button>
+                <button onclick="redirectCursos()">cursos</button>
+                <button onclick="redirectSobre()">sobre</button>
+                <button onclick="redirectContato()">contato</button>
+            </div>
+        </header>
+        <div class="logpDiv">
+            <img class="logoEC" src="assets/logo 2019(2).png"/>
+        </div>
+        <div class="titleEduca">
+            <h1 id="teste" class="titleEC">Educa center</h1>
+        </div>
+
+        <section id="div_titulo">
+
+            <h1>Quem somos</h1>
+
+        </section>
+        <section id="texto_titulo">
+
+            <p>
+                Nós existimos para inspirar e auxiliar pessoas simples na realização dos seus sonhos de uma vida melhor, através de uma educação integral e acessível.
+            </p>
+
+        </section>
+        <section id="div_titulo2">
+
+            <h1>Qual o nosso objetivo</h1>
+
+        </section>
+        <section id="texto_titulo2">
+
+            <p>
+                Ser sonônimo de excelência em qualificação profissional entre a população de joinville e região.
+            </p>
+
+        </section>
+        <section id="texto_titulo2">
+
+            <h1>Nossos valores</h1>
+
+            <p>
+                Integridade - Amor às pessoas - Excelência - Inovação
+            </p>
+
+        </section>
+        <section>
+            <h1>Nossos cursos</h1>
+        </section>
+        <div class="container">
+                <div class="formCursos">
+                    <h1>Programação</h1>
+                    <p>
+
+                    </p>
+                    <a href="curso_programacao.html"><button class="btnform">Mais</button></a>
+                </div>
+                <div class="formCursos">
+                    <h1>WebDesign</h1>
+                    <p>
+
+                    </p>
+                    <button class="btnform">Mais</button>
+                </div>
+                <div class="formCursos">
+                    <h1>Adobe Photoshop</h1>
+                    <p>
+
+                    </p>
+                    <button class="btnform">Mais</button>
+                </div>
+                <div class="formCursos">
+                    <h1>Edição de vídeo</h1>
+                    <p>
+
+                    </p>
+                    <button class="btnform">Mais</button>
+                </div>
+                <div id="saibaMais">
+                    <button onclick="redirectCursos()">Saiba mais!</button>
+                </div>
+            </div>
+    </div>
+    <script src="js/principal.js"></script>
+</body>
+</html>
