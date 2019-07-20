@@ -1,0 +1,96 @@
+Tecnologia Fundamental
+    Introdução a informática
+    Windows 10 - Essencial
+    Windows 10 - Avançado
+    Internet - Navegando de Maneira Eficiente
+    Desvendando Segredo na Era Digital
+    Produzindo Documentos - Word - Essencial
+    Apresentação de Sucesso - PowerPoint - Essencial
+    Descomplicando Cálculos - Excel - Essencial
+    Segurança na Era Digital
+    Gestão Eficiente do E-mail - Outlook
+
+Designer Digital
+    Corel Draw X5 - Essencial
+    Corel Draw X5 - Avançado
+    Adobe Premiere
+    Adobe Illustrator
+    Adobe Photoshop - Essencial
+    Adobe Photoshop - Avançado
+
+Projetos e Desenhos
+    AutoCAD Mecânico
+    AutoCAD Arquitetônico - 100% Pratico
+    3DS Max
+
+Melhor Idade Conectada
+    Windows 10 - Essencial
+    Windwos 10 - Avançado
+    Internet - Navegando de Maneira Eficiente
+    Desvendando Segredo na Era Digital
+    Segurança na Era Digital
+    Gestão Eficiente do E-mail - Outlook
+
+Auxiliar de Veterinário
+
+Técnicas em Vendas
+    Agente de Vendas
+    Telemarketing
+    Marketing Digital I
+    Marketing Digital II
+    Google AdWords
+    Evuloção Profissional - Técnicas Avançadas
+
+Técnicas em Crédito e Cobrança
+    Assistente de Crédito e Cobrança
+    Descomplicando Cálculos e Planilhas - Essencial
+    Descomplicando Cálculos e Planilhas - Intermediário
+    Descomplicando Cálculos e Planilhas - Avançado
+    Telemarketing
+    Rotinas Administratrivas
+    Evolução Profissional - Primeiros Passos
+    Desenvolvimento Profissional
+    Dinamismo e Compromisso com o Sucesso
+    Como se Tornar um Empreendedor e ter Sucesso em seu Negócio
+
+Hardware
+    Configuração
+    Instalação
+    Formatação
+    Upgrade
+    Redes
+
+Robótica Digital
+    Profissional 4.0
+    Mecânica - Eletrônica - Programação
+    (total de 48 projetos)
+
+Desenvolvimento de Sistemas
+    Logica de Programação
+    Banco de dados SQL
+    Programação C# com Visual Studio - Essencial
+    Programação C# com Visual Studio - Intermediário
+    Programação C# com Visual Studio - Avançado I
+    Programação C# com Visual Studio - Avançado II
+
+Desenvolvedor de Jogos
+    Lógica de Programação
+    Flash CS5 - Essencial
+    Flash CS5 - Avançado
+    Banco de Dados SQL
+    Desenvolvedor de Games
+
+Atendente de Farmácia
+    Rotinas Administratrivas
+    Descomplicando Cálculos e Planilhas - Essencial
+    Descomplicando Cálculos e Planilhas - Intermediário
+    Gestão de Pessoas
+    Evolução Profissional - Primeiros Passos
+    Desenvolvimento Profissional
+    Dinamismo e Compromisso com o Sucesso
+    Como se Tornar Empreendedor e ter Sucesso em seu Negócio
+
+Inglês
+    Inicial
+    Intermediário
+    Avançado
